@@ -1,6 +1,6 @@
 # 💫 About Me:
  Hi, I’m Aditya Sharma 👋
-A passionate Fresher Data Analyst who loves turning raw data into meaningful insights and interactive dashboards. Skilled in Python, SQL, Excel, Power BI, and Tableau, I enjoy solving problems, analyzing trends, and creating data-driven solutions.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+A passionate Fresher Data Analyst who loves turning raw data into meaningful insights and interactive dashboards. Skilled in Python, SQL, Excel, Power BI, and Tableau, I enjoy solving problems, analyzing trends, and creating data-driven solutions.<br>
 
 
 ## 🌐 Socials:
